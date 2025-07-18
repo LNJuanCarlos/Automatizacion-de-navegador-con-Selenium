@@ -35,3 +35,21 @@ Ejecutar
 python buscar_google.py
 
 -> Y verás cómo se abre el navegador, busca en Google y te muestra los resultados en consola.
+
+////////////////////////////////////////////////////////////////////
+////////////////////////NUEVO ARCHIVO//////////////////////////////
+//////////////////////////////////////////////////////////////////
+
+Iniciar sesión automáticamente en un sitio web
+
+Automatizar el proceso de inicio de sesión en un sitio de prueba:
+
+Usaremos este sitio seguro y gratuito para practicar:
+
+https://the-internet.herokuapp.com/login
+
+-> Crear un nuevo archivo login_demo.py
+
+Puedes Ejecutar tambien:
+
+python login_demo.py
