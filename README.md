@@ -1,8 +1,8 @@
 Crear carpeta y entorno virtual
 
-mkdir automatizacion_web
-cd automatizacion_web
-python -m venv venv
+-> mkdir automatizacion_web
+-> cd automatizacion_web
+-> python -m venv venv
 
 Activar entorno virtual:
 
@@ -18,20 +18,20 @@ pip install selenium
 
 Descargar ChromeDriver:
 
-Ve a https://chromedriver.chromium.org/downloads
+-> Ve a https://chromedriver.chromium.org/downloads
 
-Descarga la versión que coincida con tu versión de Google Chrome.
+-> Descarga la versión que coincida con tu versión de Google Chrome.
 
-Extrae el ejecutable chromedriver.exe.
+-> Extrae el ejecutable chromedriver.exe.
 
-Colócalo en la carpeta de tu proyecto o en una carpeta del PATH del sistema.
+-> Colócalo en la carpeta de tu proyecto o en una carpeta del PATH del sistema.
 
-Crear tu primer script
+-> Crear tu primer script
 
-Crear un archivo -> buscar_google.py 
+-> Crear un archivo -> buscar_google.py 
 
 Ejecutar
 
 python buscar_google.py
 
-Y verás cómo se abre el navegador, busca en Google y te muestra los resultados en consola.
+-> Y verás cómo se abre el navegador, busca en Google y te muestra los resultados en consola.
