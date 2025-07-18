@@ -53,3 +53,34 @@ https://the-internet.herokuapp.com/login
 Puedes Ejecutar tambien:
 
 python login_demo.py
+
+
+////////////////////////////////////////////////////////////////////
+////////////////////////NUEVO ARCHIVO//////////////////////////////
+//////////////////////////////////////////////////////////////////
+
+Llenar un formulario completo y enviar datos
+
+Simular el llenado de un formulario web que contiene:
+
+Campos de texto
+
+Checkbox
+
+Radio buttons
+
+Dropdown (select)
+
+Botón "Submit"
+
+Usaremos este sitio para pruebas:
+
+https://www.techlistic.com/p/selenium-practice-form.html
+
+Este sitio tiene un formulario con todos esos elementos y es ideal para practicar automatización real.
+
+Crea el archivo formulario_avanzado.py
+
+Ejecuta
+
+python formulario_web.py
